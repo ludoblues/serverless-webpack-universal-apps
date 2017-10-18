@@ -1,0 +1,23 @@
+{
+  "name": "serverless-webpack-universal-apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "js-yaml": "^3.10.0",
+    "server-destroy": "^1.0.1",
+    "stats-webpack-plugin": "^0.6.1",
+    "webpack": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ludoblues <ludovic.vue@gmail.com>",
+  "license": "ISC"
+}
